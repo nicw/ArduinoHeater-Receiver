@@ -9,3 +9,5 @@ This project consists of two parts:
 - Controller end: Touchscreen, Arduino, wifi module.
 
 Details:  https://medium.com/@nic/a-poor-mans-nest-san-francisco-edition-25c3897b1b5f#.l2laud6r2
+
+Controller code is here: https://github.com/nicw/ArduinoHeater-Controller
